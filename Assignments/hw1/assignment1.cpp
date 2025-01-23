@@ -1,3 +1,41 @@
+/*
+    Created by Anuj C
+
+    PHY1610 Scientific Computing for Physicists
+    Assignment 1: C++ Coding
+
+    Question: Write a program that can take 2d data sampled at discrete time points and compute a moving average of the norm of the 2d points as a function of time.
+
+    -> The data comes from a file with 3 columns, where the first column is time `t` and the second and third columns `x(t)` and `y(t)` are 2  coordinates.
+    
+    -> The program should compute the norm ($\sqrt{x^{2}+y^{2}}$), and then its moving average over `n` points. I.e. for each array element, it should compute the average of it and the preveeding `n`-1 elements. `n` will be an input parameter.
+    
+    -> Perform this moving average also for the time values.  Write the result in two-column form to a file.    
+   
+    -> The program should take commmand line arguments that correspond to the input file name, the output file name and the width n of the running average.
+
+    Your code should be in a simple `.cpp` file and have three or more functions in addition to the main function, and should be commented. 
+
+    
+    Soltuion and Assumptions:
+    -> Read from in.dat
+    -> Compute norm of each row in the file
+    -> Compute moving average of the norm values with window n=5 (assuming moving average of values<n are computed considering previous values=0)
+    -> Similarly compute moving average of times
+    -> Write to output.txt
+
+
+    Requirements:
+    1) in.dat
+    2) assignment1.cpp
+    in the same working directory
+    
+    
+    Usage:
+    -> g++ -o assignment1 assignment1.cpp
+    ->  ./assignment1 in.dat output.txt 5 (./assignment1 input_file_name output_file_name width=n)
+*/
+
 #include<iostream>
 #include<fstream>
 #include<vector>
@@ -51,7 +89,7 @@ vector<double> compute_moving_average(vector<double> &data, int n){
             moving_avg.push_back(sum/n);
             sum-=data[i-(n-1)];
         } else{
-            moving_avg.push_back(sum/cnt);
+            moving_avg.push_back(sum/cnt); // moving avg assuming previous window elements = 0
         }
     }
 
