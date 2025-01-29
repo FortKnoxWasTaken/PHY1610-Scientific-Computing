@@ -1,6 +1,6 @@
 # flags
 CXX = g++
-CXXFLAGS = -Wall -std=c++11
+CXXFLAGS = -Wall -std=c++17
 
 # file variables
 SRCS = modularized_gameof1d.cpp initialize.cpp update.cpp output.cpp
