@@ -1,0 +1,121 @@
+0	  O  O  O  O  O  O  O O  O  O  O  O  O  O O  O  O  O  O  O  O O  O  O  O  O  O  O O  O  O  O  O  O   0.34
+1	   OO OO OO OO OO OO O OO OO OO OO OO OO O OO OO OO OO OO OO O OO OO OO OO OO OO O OO OO OO OO OO    0.62
+2	  O O OO OO OO OO OOOOOOO OO OO OO OO OOOOOOO OO OO OO OO OOOOOOO OO OO OO OO OOOOOOO OO OO OO O O   0.7
+3	   OOOOO OO OO OO   OOO   OO OO OO OO   OOO   OO OO OO OO   OOO   OO OO OO OO   OOO   OO OO OOOOO    0.56
+4	  OO O   OO OO O OOOOOOOOO O OO OO O OOOOOOOOO O OO OO O OOOOOOOOO O OO OO O OOOOOOOOO O OO   O OO   0.68
+5	 O OO  OO O OOOOO  OOOOO  OOOOO OOOOO  OOOOO  OOOOO OOOOO  OOOOO  OOOOO OOOOO  OOOOO  OOOO OO  OO O  0.7
+6	O OO OO OOOO  O OOOO O OOOO O     O OOOO O OOOO O     O OOOO O OOOO O     O OOOO O OOOO    O OO OO O 0.58
+7	O OO OO    OOO O    OOO    O       O    OOO    O       O    OOO    O       O    OOO   OO    OOO OO O 0.35
+8	O OO O O  OOO O    OOOOO               OOOOO               OOOOO               OOOOOOO  O  OOO  OO O 0.38
+9	O OOOOO OOOO O    OO O OO             OO O OO             OO O OO             OO OOO OOO OOOOOOO O O 0.43
+10	O   O       O    O OOOOO O           O OOOOO O           O OOOOO O           O O  O   O    OOO  OOOO 0.35
+11	OOO               O  O  O             O  O  O             O  O  O             O OO  O     OOOOOOO O  0.24
+12	 OOO               OO OO               OO OO               OO OO               OO OO     OO OOO  OOO 0.27
+13	  OOO             O O O O             O O O O             O O O O             O O O O   O O  OOOOOO  0.27
+14	OOOOOO             OOOOO               OOOOO               OOOOO               OOOOO  O  O OOO OO OO 0.35
+15	OOOO OO           OO O OO             OO O OO             OO O OO             OO O OOO OO O O  OO    0.33
+16	O    O O         O OOOOO O           O OOOOO O           O OOOOO O           O OOOO O  OOOOO OO  OOO 0.4
+17	OO    O           O  O  O             O  O  O             O  O  O             O    O OOO O   O OOO   0.22
+18	  O                OO OO               OO OO               OO OO                    O O O  O  O OOOO 0.22
+19	OO                O O O O             O O O O             O O O O                    OOO OO OO O   O 0.23
+20	OOO                OOOOO               OOOOO               OOOOO                    OOO  OO OOO  OOO 0.29
+21	O OO              OO O OO             OO O OO             OO O OO                  OOOOOO O  OOOOO O 0.31
+22	O O O            O OOOOO O           O OOOOO O           O OOOOO O                OO OO  O OOO O   O 0.34
+23	OOOO              O  O  O             O  O  O             O  O  O                O O O OO O O O  OO  0.23
+24	   OO              OO OO               OO OO               OO OO                  OOOOOOOOOOOO OO O  0.29
+25	  O  O            O O O O             O O O O             O O O O                OO OOOOOOOO   OOO   0.27
+26	   OO              OOOOO               OOOOO               OOOOO                O O   OOOO OOOOOOOO  0.31
+27	  O  O            OO O OO             OO O OO             OO O OO                O  OOO      OOOO OO 0.27
+28	OO OO            O OOOOO O           O OOOOO O           O OOOOO O                OOOOOO    OO    O  0.34
+29	OO O O            O  O  O             O  O  O             O  O  O                OO OO OO  O  O    O 0.22
+30	O OOO              OO OO               OO OO               OO OO                O O OO O OO OO    OO 0.27
+31	   OOO            O O O O             O O O O             O O O O                OOOOOOOOOO O O  OOO 0.3
+32	OOOOOOO            OOOOO               OOOOO               OOOOO                OO OOOOOO  OOO OOOOO 0.38
+33	OOOOO OO          OO O OO             OO O OO             OO O OO              O O   OO OOOOO    OOO 0.34
+34	OOO   O O        O OOOOO O           O OOOOO O           O OOOOO O              O  OO O   O OO  OO O 0.36
+35	  OOO  O          O  O  O             O  O  O             O  O  O                OO OO  O  OO OO O   0.23
+36	 OOOOOO            OO OO               OO OO               OO OO                O O O OO OO O OOO    0.29
+37	OO OO OO          O O O O             O O O O             O O O O                OOOOOOO OOOOO OOO   0.33
+38	 O OO O O          OOOOO               OOOOO               OOOOO                OO OOO     O    OOOO 0.3
+39	OOOOOOOO          OO O OO             OO O OO             OO O OO              O O  OOO        OO    0.3
+40	O OOOO OO        O OOOOO O           O OOOOO O           O OOOOO O              O OOOOOO      O  OOO 0.39
+41	       O O        O  O  O             O  O  O             O  O  O                O  OO OO      OOO   0.19
+42	        O          OO OO               OO OO               OO OO                  OO O O O    OOOOO  0.23
+43	                  O O O O             O O O O             O O O O                O OOOOOO    OO O OO 0.24
+44	O                  OOOOO               OOOOO               OOOOO                  O  OO OO  O OOOOO  0.27
+45	                  OO O OO             OO O OO             OO O OO                  OO O O OO O  O  O 0.24
+46	                 O OOOOO O           O OOOOO O           O OOOOO O                O OOOOOOOOO OO OO  0.35
+47	                  O  O  O             O  O  O             O  O  O                  O  OOOOO   OO O O 0.19
+48	                   OO OO               OO OO               OO OO                    OOO O OOOO OOOO  0.24
+49	                  O O O O             O O O O             O O O O                  OOO OOO        OO 0.2
+50	O                  OOOOO               OOOOO               OOOOO                  OOO   OOO      O   0.23
+51	                  OO O OO             OO O OO             OO O OO                OOOOOOOOOOO      OO 0.28
+52	O                O OOOOO O           O OOOOO O           O OOOOO O              OO OOOOOOO OO    O   0.34
+53	                  O  O  O             O  O  O             O  O  O              O O   OOO   O O    OO 0.18
+54	O                  OO OO               OO OO               OO OO                O  OOOOOOO  O    O   0.23
+55	                  O O O O             O O O O             O O O O                OOO OOO OOO      OO 0.23
+56	O                  OOOOO               OOOOO               OOOOO                OOO   O   OOO    O   0.24
+57	                  OO O OO             OO O OO             OO O OO              OOOOOO   OOOOOO    OO 0.29
+58	O                O OOOOO O           O OOOOO O           O OOOOO O            OO OO OOOOO OO OO  O   0.36
+59	                  O  O  O             O  O  O             O  O  O            O O OO   O   OO O OO OO 0.21
+60	O                  OO OO               OO OO               OO OO              OOOO OO   OO OOOOOO O  0.28
+61	                  O O O O             O O O O             O O O O            OO    O OOO O   OO  OOO 0.24
+62	O                  OOOOO               OOOOO               OOOOO            O  O    O O O  OO  OOOOO 0.28
+63	OO                OO O OO             OO O OO             OO O OO            OO      OOO OO  OOO OO  0.29
+64	O O              O OOOOO O           O OOOOO O           O OOOOO O          O  O    OOO  O OOOO  OO  0.35
+65	OO                O  O  O             O  O  O             O  O  O            OO    OOOOOO O   OOO OO 0.25
+66	 OO                OO OO               OO OO               OO OO            O  O  OO OO  O  OOOO     0.25
+67	O  O              O O O O             O O O O             O O O O            OO OO O O OO OOO  OO    0.27
+68	 OO                OOOOO               OOOOO               OOOOO            O O OOOOOOOOO  OOOO  OO  0.34
+69	O  O              OO O OO             OO O OO             OO O OO            OOO  OOOOO OOOO  OOO  O 0.33
+70	 OO              O OOOOO O           O OOOOO O           O OOOOO O          OOOOOOO O      OOOOOOOO  0.39
+71	O  O              O  O  O             O  O  O             O  O  O          OO OOO  O      OO OOOO OO 0.25
+72	OOO                OO OO               OO OO               OO OO          O O  OOOO      O O       O 0.24
+73	  OO              O O O O             O O O O             O O O O          O OOO  OO      O       OO 0.23
+74	OO  O              OOOOO               OOOOO               OOOOO            O OOOO  O            O   0.25
+75	  OO              OO O OO             OO O OO             OO O OO            O   OOO              OO 0.23
+76	OO  O            O OOOOO O           O OOOOO O           O OOOOO O             OOOOOO            O   0.31
+77	  OO              O  O  O             O  O  O             O  O  O             OO OO OO            OO 0.19
+78	OO  O              OO OO               OO OO               OO OO             O O OO O O          O   0.22
+79	  OO              O O O O             O O O O             O O O O             OOOOOOOO            OO 0.24
+80	OO  O              OOOOO               OOOOO               OOOOO             OO OOOO OO          O   0.27
+81	  OO              OO O OO             OO O OO             OO O OO           O O      O O          OO 0.23
+82	OO  O            O OOOOO O           O OOOOO O           O OOOOO O           O        O          O   0.27
+83	  OO              O  O  O             O  O  O             O  O  O                                 OO 0.13
+84	OO  O              OO OO               OO OO               OO OO                                 O   0.16
+85	  OO              O O O O             O O O O             O O O O                                 OO 0.16
+86	OO  O              OOOOO               OOOOO               OOOOO                                 O   0.19
+87	  OO              OO O OO             OO O OO             OO O OO                                 OO 0.19
+88	OO  O            O OOOOO O           O OOOOO O           O OOOOO O                               O   0.25
+89	  OO              O  O  O             O  O  O             O  O  O                                 OO 0.13
+90	OO  O              OO OO               OO OO               OO OO                                 O   0.16
+91	  OO              O O O O             O O O O             O O O O                                 OO 0.16
+92	OO  O              OOOOO               OOOOO               OOOOO                                 O   0.19
+93	  OO              OO O OO             OO O OO             OO O OO                                 OO 0.19
+94	OO  O            O OOOOO O           O OOOOO O           O OOOOO O                               O   0.25
+95	  OO              O  O  O             O  O  O             O  O  O                                 OO 0.13
+96	OO  O              OO OO               OO OO               OO OO                                 O   0.16
+97	  OO              O O O O             O O O O             O O O O                                 OO 0.16
+98	OO  O              OOOOO               OOOOO               OOOOO                                 O   0.19
+99	  OO              OO O OO             OO O OO             OO O OO                                 OO 0.19
+100	OO  O            O OOOOO O           O OOOOO O           O OOOOO O                               O   0.25
+101	  OO              O  O  O             O  O  O             O  O  O                                 OO 0.13
+102	OO  O              OO OO               OO OO               OO OO                                 O   0.16
+103	  OO              O O O O             O O O O             O O O O                                 OO 0.16
+104	OO  O              OOOOO               OOOOO               OOOOO                                 O   0.19
+105	  OO              OO O OO             OO O OO             OO O OO                                 OO 0.19
+106	OO  O            O OOOOO O           O OOOOO O           O OOOOO O                               O   0.25
+107	  OO              O  O  O             O  O  O             O  O  O                                 OO 0.13
+108	OO  O              OO OO               OO OO               OO OO                                 O   0.16
+109	  OO              O O O O             O O O O             O O O O                                 OO 0.16
+110	OO  O              OOOOO               OOOOO               OOOOO                                 O   0.19
+111	  OO              OO O OO             OO O OO             OO O OO                                 OO 0.19
+112	OO  O            O OOOOO O           O OOOOO O           O OOOOO O                               O   0.25
+113	  OO              O  O  O             O  O  O             O  O  O                                 OO 0.13
+114	OO  O              OO OO               OO OO               OO OO                                 O   0.16
+115	  OO              O O O O             O O O O             O O O O                                 OO 0.16
+116	OO  O              OOOOO               OOOOO               OOOOO                                 O   0.19
+117	  OO              OO O OO             OO O OO             OO O OO                                 OO 0.19
+118	OO  O            O OOOOO O           O OOOOO O           O OOOOO O                               O   0.25
+119	  OO              O  O  O             O  O  O             O  O  O                                 OO 0.13
+120	OO  O              OO OO               OO OO               OO OO                                 O   0.16
